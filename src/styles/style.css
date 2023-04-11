@@ -1,0 +1,9 @@
+.spacing{
+    margin-bottom:20px ;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.errorMessage{
+    color: red;
+}
